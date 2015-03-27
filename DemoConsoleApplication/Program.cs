@@ -10,7 +10,7 @@ namespace DemoConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is purely for DEMO purposes. - Tou Vang : version 3.0");
+            Console.WriteLine("This is purely for DEMO purposes. - Tou Vang : version 4.0");
             Console.Write("Press <ENTER> to continue: ");
             Console.ReadLine();
         }
